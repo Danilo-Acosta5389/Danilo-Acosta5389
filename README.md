@@ -4,6 +4,7 @@
 In stockholm, Sweden <img src="https://user-images.githubusercontent.com/113366808/224347548-c069f9ed-aee0-4f73-bf95-a4784774941e.svg" width ="20" height="20" alt="Chas Academy logo"></p> 
 </br>
 
+[![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Acosta5389&hide=stars,contribs&show_icons=true&theme=synthwave)](https://github.com/Danilo-Acosta5389/github-readme-stats)
 
 Technologies i have learned and used in my projects so far:
 <ul>
@@ -14,7 +15,7 @@ Technologies i have learned and used in my projects so far:
   <li><img src="https://user-images.githubusercontent.com/113366808/224329680-40ee4204-f423-4657-9315-9f335eb0af50.svg" width ="50" height="40" alt="SQL Database"></li>
   <li><img src="https://user-images.githubusercontent.com/113366808/224329523-76d14243-d8a1-4aa0-9f57-eb819964854b.svg" width ="50" height="40" alt="PostgreSQL logo"></li>
 </ul>
-and of course version control with <img src="https://user-images.githubusercontent.com/113366808/224329580-a7653ef2-69af-4e9c-9980-f28ff367d95b.svg" width ="50" height="40" alt="Git logo">
+<p>and of course version control with <img src="https://user-images.githubusercontent.com/113366808/224329580-a7653ef2-69af-4e9c-9980-f28ff367d95b.svg" width ="50" height="40" alt="Git logo"></p>
 
 Follow me on my journey on becoming a great software developer here on Github! 🙌
 
