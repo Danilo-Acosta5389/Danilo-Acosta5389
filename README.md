@@ -7,7 +7,7 @@ In stockholm, Sweden <img src="https://user-images.githubusercontent.com/1133668
 [![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Acosta5389&hide=stars&show=contribs,prs_merged,prs_merged_percentage&show_icons=true&theme=dracula)](https://github.com/Danilo-Acosta5389/github-readme-stats) 
 <br><br>
 ## Tech of choice:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,git,postgres,mysql,powershell,linux,raspberrypi,nginx,bash&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,vite,html,css,tailwind,vscode,git,postgres,mysql,powershell,linux,raspberrypi,nginx,bash,azure,aws&perline=5)](https://skillicons.dev) 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Acosta5389&layout=pie&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
